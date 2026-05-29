@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://github.com/himanshu31shr">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&repeat=true&width=620&height=45&lines=Architected+systems+serving+400K%2B+users+%F0%9F%9A%80;Co-Founded+a+fintech+platform+from+0+to+scale+%F0%9F%93%88;Accessibility+champion+%E2%80%94+WCAG+2.1+AA+advocate+%E2%99%BF;9%2B+years+shipping+production+code+%F0%9F%92%BB;Node.js+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+AWS+%C2%B7+Python+%F0%9F%94%A7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&repeat=true&width=620&height=45&lines=Architected+systems+serving+1M%2B+users+%F0%9F%9A%80;Co-Founded+a+fintech+platform+from+0+to+scale+%F0%9F%93%88;Accessibility+champion+%E2%80%94+WCAG+2.1+AA+advocate+%E2%99%BF;9%2B+years+shipping+production+code+%F0%9F%92%BB;Node.js+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+AWS+%C2%B7+Python+%F0%9F%94%A7" alt="Typing SVG" />
 </a>
 
 <!-- Social Badges -->
@@ -32,7 +32,7 @@ const himanshu = {
   previously: "Co-Founder & Head of Engineering @ ByajBook",
   experience: "9+ years",
   impact: {
-    usersServed: "400K+",
+    usersServed: "1M+",
     uptimeAchieved: "99.9%",
     deploymentSpeedImproved: "50%",
     accessibilityStandard: "WCAG 2.1 AA",
@@ -52,7 +52,7 @@ const himanshu = {
 
 I'm a **Senior Full Stack Engineer** and **startup technology leader** with 9+ years of experience building and scaling **fintech**, **SaaS**, and **cloud-native platforms**.
 
-As **Co-Founder & Head of Engineering at ByajBook**, I architected a peer-to-peer lending platform from the ground up — scaling it to **400K+ users**, migrating from monolith to **microservices** (Node.js, Redis, AWS ECS), achieving **99.9% uptime**, and reducing infrastructure costs by **35%**. I built and led a cross-functional team of 8, cutting feature time-to-market by **40%**.
+As **Co-Founder & Head of Engineering at ByajBook**, I architected a peer-to-peer lending platform from the ground up — scaling it to **1M+ users**, migrating from monolith to **microservices** (Node.js, Redis, AWS ECS), achieving **99.9% uptime**, and reducing infrastructure costs by **35%**. I built and led a cross-functional team of 8, cutting feature time-to-market by **40%**.
 
 Currently at **Incubyte**, I lead full-stack development for tier-1 enterprise clients, spearhead **WCAG 2.1 AA accessibility** initiatives (authoring 40+ engineering standards), and drive **AI-assisted developer workflows** that measurably improve code quality and productivity.
 
@@ -155,7 +155,7 @@ I'm passionate about **test-driven development**, **clean architecture**, and bu
 <table>
 <tr>
 <td align="center" width="25%">
-  <img src="https://img.shields.io/badge/400K+-Users_Served-6C63FF?style=for-the-badge" alt="Users" /><br/>
+  <img src="https://img.shields.io/badge/1M+-Users_Served-6C63FF?style=for-the-badge" alt="Users" /><br/>
   <sub>Scaled ByajBook's P2P lending platform</sub>
 </td>
 <td align="center" width="25%">
@@ -183,7 +183,7 @@ I'm passionate about **test-driven development**, **clean architecture**, and bu
 - 🤖 **AI Engineering**: Integrating LLMs and agentic workflows into developer tooling
 - 🧪 **Quality**: TDD/BDD evangelist, 90%+ code coverage, comprehensive CI/CD pipelines
 - 👥 **Leadership**: Built & led teams of 8+, mentored junior engineers, drove Agile practices
-- 🚀 **Startup DNA**: Took ByajBook from 0 → 400K users as Co-Founder & Head of Engineering
+- 🚀 **Startup DNA**: Took ByajBook from 0 → 1M+ users as Co-Founder & Head of Engineering
 
 ---
 
