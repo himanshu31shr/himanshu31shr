@@ -111,40 +111,16 @@ I'm passionate about **test-driven development**, **clean architecture**, and bu
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=himanshu31shr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu31shr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himanshu31shr&theme=tokyonight" alt="GitHub Stats" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=himanshu31shr&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu31shr&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=555555" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=himanshu31shr&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=555555" alt="GitHub Streak" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu31shr&custom_title=Contribution%20Graph&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6B6B&area_color=6C63FF&area=true&hide_border=true&title_color=C9D1D9" alt="Activity Graph" width="100%" />
-</div>
-
----
-
-## 🏆 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/himanshu31shr/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=himanshu31shr&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
-</a>
-<a href="https://github.com/himanshu31shr/tiffin-tracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=himanshu31shr&repo=tiffin-tracker&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/himanshu31shr/accessibility-katas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=himanshu31shr&repo=accessibility-katas&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
-</a>
-<a href="https://github.com/himanshu31shr/ci-boilerplate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=himanshu31shr&repo=ci-boilerplate&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
-</a>
-
 </div>
 
 ---
